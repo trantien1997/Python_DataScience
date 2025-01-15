@@ -1,8 +1,5 @@
-```markdown
 # WebRTC Build Setup for Windows
 
-
-```
 ## 1. Create `asix` Folder
 ```bash
 mkdir asix
